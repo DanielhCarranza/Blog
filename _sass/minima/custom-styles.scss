@@ -4,6 +4,12 @@
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 
+.page-content {
+        -webkit-font-smoothing: antialiased !important;
+        text-rendering: optimizeLegibility !important;
+        font-family: "Poppins" !important;
+}
+
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
 
