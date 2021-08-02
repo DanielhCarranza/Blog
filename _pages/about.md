@@ -4,8 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I'm a Biomedical & Machine Learning Engineer and Entrepreneur from Mexico passionate about using technology to reinvent the big needs in society, in particular by engineering the world-best Healthcare with AI
